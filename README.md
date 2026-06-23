@@ -14,7 +14,7 @@ An end-to-end Machine Learning decision support system designed to classify city
 To follow industry-standard software engineering practices, the backend logic is decoupled into a structured `utils` package:
 - `src/utils/charts.py`: Dynamic time-series trends and mathematical feature importance correlation matrix rendered with Plotly.
 - `src/utils/styles.py`: UI/UX styling sheet injecting a custom corporate theme, Geist typography, and adaptive container layout rules.
-- `src/app.py`: Main application layer managing local cache pipelines (`@st.cache_resource`), model execution state, and live query history log streaming (`st.session_state`).
+- `src/app.py`: Main application layer managing local cache pipelines (`@st.cache_resource`), model execution state, and live query history log streaming (`st.session_state`)
 
 ## 👥 Team & Roles
 - **Muhammet Mustafa Mencik:** Team Lead / Data Preprocessing
