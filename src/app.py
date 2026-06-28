@@ -47,7 +47,7 @@ st.markdown("""
         width: 100% !important;
     }
     
-    /* 🚀 EKİBİ KUSURSUZ EŞİT BOYUTA GETİREN SİHİRLİ KURAL */
+    /* 🚀 EKİBİ KUSURSUZ EŞİT BOYUTA GETİREN SİHİRLİ KURAL: */
     .team-card {
         min-height: 230px !important; /* Tüm kartları dikeyde en uzun metne göre sabitler */
         margin-bottom: 24px !important;
