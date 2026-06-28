@@ -20,7 +20,7 @@ To follow industry-standard software engineering practices, the backend logic is
 - **Muhammet Mustafa Mencik:** Team Lead / Data Preprocessing
 - **Kağan Aydın:** Data Analyst / Exploration & Graphics Motor Design
 - **Baran Demir:** ML Developer / Model Training
-- **Mehmet Açıkgöz (Me):** UI & Software Engineer / Dashboard Structural Architecture & Absolute Path Data Controls
+- **Mehmet Açıkgöz (Me):** UI & Software Engineer / Dashboard Structural Architecture & Absolute Path Data Controls.
 
 ## 🛠️ Tech Stack & Requirements
 - **Languages/Tools:** Python, Streamlit, Git, GitHub Desktop
