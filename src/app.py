@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 import os
 
-# 1. v0 TEMA VE SAYFA YAPILANDIRMASI:
+# 1. v0 TEMA VE SAYFA YAPILANDIRMASI
 st.set_page_config(
     page_title="Trafik-Sens Dashboard",
     page_icon="🚗",
@@ -47,7 +47,7 @@ st.markdown("""
         width: 100% !important;
     }
     
-    /* 🚀 EKİBİ KUSURSUZ EŞİT BOYUTA GETİREN SİHİRLİ KURAL: */
+    /* 🚀 EKİBİ KUSURSUZ EŞİT BOYUTA GETİREN SİHİRLİ KURAL */
     .team-card {
         min-height: 230px !important; /* Tüm kartları dikeyde en uzun metne göre sabitler */
         margin-bottom: 24px !important;
