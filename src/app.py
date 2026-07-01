@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 import os
 
-# 1. v0 TEMA VE SAYFA YAPILANDIRMASI:
+# 1. v0 TEMA VE SAYFA YAPILANDIRMASI
 st.set_page_config(
     page_title="Trafik-Sens Dashboard",
     page_icon="🚗",
