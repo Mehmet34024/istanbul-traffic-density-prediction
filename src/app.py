@@ -171,7 +171,7 @@ active_tab = st.sidebar.radio(
 )
 
 # ------------------------------------------------------------------
-# SEKME 1: TAHMİN PANELİ
+# SEKME 1: TAHMİN PANELİ:
 # ------------------------------------------------------------------
 if active_tab == "🔮 Trafik Tahmin Paneli":
     st.markdown("<h1>Trafik Tahmin Paneli</h1>", unsafe_allow_html=True)
