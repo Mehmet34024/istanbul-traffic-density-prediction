@@ -4,7 +4,7 @@ Language Options / Dil Seçenekleri: [English (Current)](README.md) | [Türkçe]
 
 An end-to-end Machine Learning decision support system designed to classify city traffic density levels ("Low", "Medium", "High") and predict the exact vehicle counts dynamically based on time and spatial coordinates using Istanbul Metropolitan Municipality (IBB) Open Data.
 
-## 📌 Project Overview
+## 📌 Project Overview:
 - **Objective:** Developing a hybrid data solution to predict city traffic metrics to assist urban planning and routing algorithms.
 - **Methodology:** Scrum Framework (4 Sprints managed via Trello).
 - **Dataset:** ~15,000 processed rows sampled from millions of historical IBB traffic sensor logs (October 2024).
